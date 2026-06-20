@@ -16,7 +16,7 @@ const mono = JetBrains_Mono({
   display: "swap",
 });
 
-const SITE_URL = "https://harshita-portfolio.vercel.app"; // TODO: set your real domain
+const SITE_URL = "https://harshita-portfolio-two.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
